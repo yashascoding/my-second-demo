@@ -1,4 +1,4 @@
-# my-second-demo
+# hi there
 # 💫 About Me:
 i am a student
 
